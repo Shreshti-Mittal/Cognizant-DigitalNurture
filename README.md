@@ -1,42 +1,43 @@
-# Cognizant Digital Nurture 5.0 – Java Full Stack Engineer Deep Skilling
+# Cognizant Digital Nurture 5.0 – Java Full Stack Engineer
 
-This repository contains my solutions, hands-on exercises, assignments, and project work completed as part of the **Cognizant Digital Nurture 5.0 (DN 5.0) Java Full Stack Engineer Deep Skilling Program**.
+## Upskilling Track
 
-The program focuses on building strong foundations in software development, full-stack technologies, problem-solving, and industry-relevant engineering practices.
+This branch contains the **Upskilling** module from the Cognizant Digital Nurture 5.0 (DN 5.0) Java Full Stack Engineer Program.
 
-## Topics Covered
+### Overview
 
-* Design Patterns and SOLID Principles
-* Data Structures and Algorithms
-* PL/SQL and Database Programming
-* Unit Testing with JUnit
-* Mocking and Testing with Mockito
-* Spring Core and Maven
-* Spring Data JPA
-* Spring REST APIs
-* Microservices Architecture
-* React.js
-* Cloud Fundamentals
-* DevOps Practices
+The Upskilling track focuses on advanced concepts, specialized topics, and professional development skills beyond the foundational Deepskilling track. This branch covers advanced Java features, design patterns, performance optimization, and enterprise-level development practices.
 
-## Repository Structure
+### Contents
 
-Each module contains exercises, coding assignments, and practice implementations completed during the training program.
+- **Advanced_Topics**: Specialized and advanced learning materials
+  - Advanced Java concepts (Generics, Reflection, Annotations)
+  - Design Patterns (Creational, Structural, Behavioral)
+  - Performance Optimization and Tuning
+  - Concurrency and Multithreading
 
-## Learning Outcomes
+### Key Learning Areas
 
-Through this program, I gained hands-on experience in:
+- Advanced object-oriented programming
+- Enterprise design patterns
+- System performance optimization
+- Concurrent programming
+- Enterprise integration patterns
 
-* Object-Oriented Programming (OOP)
-* Backend Development using Spring Framework
-* RESTful API Development
-* Database Design and Querying
-* Test-Driven Development (TDD)
-* Microservices Development
-* Frontend Development with React
-* Version Control using Git and GitHub
+### Author
 
-## Author
+**Shreshti Mittal**  
+B.Tech (Data Analytics)  
+Cognizant Digital Nurture 5.0 - Java Full Stack Engineer
 
-**Shreshti Mittal**
-B.Tech (Data Analytics) | Aspiring Software Engineer
+### Branch Structure
+
+This repository follows the branch-based structure:
+- **main**: Overview and documentation
+- **Deepskilling**: Core DSA and foundational concepts
+- **Hands_On_Exercise**: Hands-on practical exercises
+- **Upskilling**: Advanced topics and specialized modules
+
+---
+
+For more information, see the main branch README.
